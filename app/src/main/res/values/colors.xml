@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#010101</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cinza_escuro">#171719</color>
+    <color name="cinza_claro">#2d2d2f</color>
+    <color name="verde_claro">#64FD7E</color>
+    <color name="verde_escuro">#338504</color>
+    <color name="vermelho">#Fc6c65</color>
+
+
+</resources>

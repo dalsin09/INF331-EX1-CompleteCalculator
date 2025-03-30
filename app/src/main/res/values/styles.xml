@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MeuBotaoCinza" parent="Widget.Material3.Button">
+        <!-- Mude o parent para Material 3 -->
+        <item name="android:background">@drawable/botao_redondo</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="backgroundTint">@null</item>
+    </style>
+
+    <style name="MeuBotaoVerde" parent="Widget.Material3.Button">
+        <!-- Mude o parent para Material 3 -->
+        <item name="android:background">@drawable/botao_verde</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="backgroundTint">@null</item>
+    </style>
+
+    <style name="MeuBotaoCinzaClaro" parent="Widget.Material3.Button">
+        <!-- Mude o parent para Material 3 -->
+        <item name="android:background">@drawable/botao_cinza_claro</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="backgroundTint">@null</item>
+    </style>
+</resources>
